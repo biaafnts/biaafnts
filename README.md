@@ -15,12 +15,6 @@
 
 ##
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=biaafnts&repo=github-readme-stats&theme=github_dark&hide_border=true"/> 
-</div>
-
-##
-
 ### Studying in this moment:
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
