@@ -15,13 +15,13 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077ff&size=35&center=true&vCenter=true&width=1000&lines=Studying+in+this+moment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077ff&size=20&center=true&vCenter=true&width=1000&lines=Studying+in+this+moment)](https://git.io/typing-svg)
 
 <div align="center">
   <img align="center" alt="Bia-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077ff&size=35&center=true&vCenter=true&width=1000&lines=Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077ff&size=20&center=true&vCenter=true&width=1000&lines=Tools)](https://git.io/typing-svg)
 
 <div align="center">
   <img align="center" alt="Bia-photo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
