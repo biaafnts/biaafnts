@@ -5,8 +5,8 @@
 ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=biaafnts&show_icons=true&theme=github_dark" alt="Bianca Fontes github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaafnts&layout=compact&theme=github_dark" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=biaafnts&show_icons=true&theme=github_dark&hide_border=true" alt="Bianca Fontes github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaafnts&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ##
